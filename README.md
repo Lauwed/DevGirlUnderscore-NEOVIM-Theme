@@ -2,6 +2,8 @@
 
 A light Neovim colorscheme with a pink & blue palette, inspired by the **Suburb Light** terminal theme.
 
+<img width="1548" height="798" alt="image" src="https://github.com/user-attachments/assets/59fe1498-23c9-4f92-b1a1-98409b97ded7" />
+
 ## Features
 
 - Light background with a soft pink/blue/purple palette
