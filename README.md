@@ -25,7 +25,7 @@ A light Neovim colorscheme with a pink & blue palette, inspired by the **Suburb 
 
 ```lua
 {
-    "Lauwed/devgirlunderscorecolorscheme.nvim",
+    "Lauwed/DevGirlUnderscore-NEOVIM-Theme",
     priority = 1000,
     config = function()
         require("devgirlunderscorecolorscheme").setup()
@@ -38,7 +38,7 @@ A light Neovim colorscheme with a pink & blue palette, inspired by the **Suburb 
 
 ```lua
 use {
-    "Lauwed/devgirlunderscorecolorscheme.nvim",
+    "Lauwed/DevGirlUnderscore-NEOVIM-Theme",
     config = function()
         require("devgirlunderscorecolorscheme").setup()
         vim.cmd("colorscheme devgirlunderscorecolorscheme")
@@ -49,7 +49,7 @@ use {
 ### [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'Lauwed/devgirlunderscorecolorscheme.nvim'
+Plug 'Lauwed/DevGirlUnderscore-NEOVIM-Theme'
 ```
 
 Then in your config:
